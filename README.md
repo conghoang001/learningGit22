@@ -6,3 +6,4 @@ iron cung ngau
 toi la dep trai nhat
 ai noi chi thi noi
 hom nay dep thiet chu
+da thay doi trong sang hom nay
